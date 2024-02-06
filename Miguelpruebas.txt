@@ -15,6 +15,10 @@ At that moment I inform him, how much money
 I think to put into my car.
 4. In this moment the employees takes the gas dispenser gun 
 and begins with the function.
+5. When the function is ended the employee hangs the gas 
+dispenser gun, at that moment the transaction start.
+
+
 
 
  
