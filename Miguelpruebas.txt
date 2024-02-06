@@ -1,0 +1,19 @@
+Realizaré unas pruebas para verificar varios funcionamientos.
+------------------------------------------------------------
+
+1. Crearé el archivo, prepararé el git add Miguelpruebas.txt
+Esto lo puedo realizar de dos manera git add . or 
+git add [NOMBRE ARCHIVO]
+En el momento que realizó esto la información me queda
+en staging. esperando aplicar cambios.
+2. This change is to put up this file on the staging but not 
+on the repository, so I try to use the command 
+git reset another version with parameter --hard.
+3. When I arrived at the gas station I put in my car 
+beside of dispenser, so the employees could attend to me.
+At that moment I inform him, how much money 
+I think to put into my car.
+
+
+ 
+
