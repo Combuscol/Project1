@@ -13,6 +13,8 @@ git reset another version with parameter --hard.
 beside of dispenser, so the employees could attend to me.
 At that moment I inform him, how much money 
 I think to put into my car.
+4. In this moment the employees takes the gas dispenser gun 
+and begins with the function.
 
 
  
