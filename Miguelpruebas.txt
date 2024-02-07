@@ -17,6 +17,13 @@ I think to put into my car.
 and begins with the function.
 5. When the function is ended the employee hangs the gas 
 dispenser gun, at that moment the transaction start.
+6. So, the salesperson brings the devices for initing the
+process, first of all, 
+he types the position number where the customer 
+did the consumption, this action puts the information 
+on the screen of the dataphone,
+
+
 
 
 
